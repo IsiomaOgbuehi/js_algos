@@ -16,6 +16,8 @@ Example 3:
 Input: nums = [5,4,-1,7,8]
 Output: 23
 Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
+
+Also, convert to returning the array and largest sum 
 */
 
 const maxSubArray = (nums: number[]): number => {
